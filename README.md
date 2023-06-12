@@ -1,1 +1,2 @@
 # Tic-Tac-Toe-AI
+Initially we toss a coin to learn who is going to play first ,computer or player.Player reads as input one number in the interval [0,8] where (0,0) represents 0, (0,1) represents 1, (0,2) represents 2 (1,0) represent 3 .....(2,2) represents 8.Of course we choose a square if it is free.The computer after that tries to make the best move given the current situation at which game is found using minimax algorithm.
